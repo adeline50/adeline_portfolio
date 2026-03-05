@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom font */
+@font-face {
+  font-family: "Gabriola";
+  src: local("Gabriola");
+}
+
+body { margin: 0; }
